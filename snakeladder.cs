@@ -26,15 +26,25 @@ namespace SnakeAndLadder
                     Console.WriteLine("Player 1 is running, Position:"+ Player1_Pos);
                     Player1_Pos = playgame(Player1_Pos);
                     die1++;
+                    Console.WriteLine("Player 1 Position:" + Player1_Pos);
                 }
                 while (flag == 1);
-
+                do
                 {
-                    Console.WriteLine("Player 2 is will run next" + Player2_Pos);
+                    Console.WriteLine("Player 2 is running, Position:" + Player2_Pos);
                     Player2_Pos = playgame(Player2_Pos);
                     die2++;
-                }
+                    Console.WriteLine("Player 2 Position:" + Player2_Pos);
+                } while (flag == 1);
 
+            }
+            if (Player1_Pos == 100)
+            {
+                Console.WriteLine("player 1 wins");
+            }
+            else
+            {
+                Console.WriteLine("player 2 wins");
             }
 
         }
