@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\bin\Debug\net6.0\SnakeLadder.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\refint\SnakeLadder.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\SnakeLadder.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\SnakeLadder\SnakeLadder\obj\Debug\net6.0\ref\SnakeLadder.dll
