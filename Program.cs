@@ -1,13 +1,11 @@
-﻿namespace SnakeLadder
+﻿namespace SnakeAndLadder
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to snake and Ladder game");
-            Random random = new Random();
-            int dice1 = random.Next(1, 6);
-            Console.WriteLine("dice rolled we get:" + dice1);
+            Console.WriteLine("Welcome to snake and ladder game ");
+            start.GameStarted();
         }
     }
 }
